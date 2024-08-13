@@ -1,0 +1,33 @@
+.similar-product-li-container {
+  list-style-type: none;
+  margin-right: 25px;
+  width: 240px;
+  padding: 0;
+}
+
+.similar-product-img-container img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.similar-product-img-container h1 {
+  font-size: 18px;
+}
+
+.price-and-rating-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.rating-star-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #0967d2;
+}
+
+.rating-star-container img {
+  width: 24px;
+  height: 24px;
+}
